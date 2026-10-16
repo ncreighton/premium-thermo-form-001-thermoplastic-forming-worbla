@@ -1,0 +1,2 @@
+# premium-thermo-form-001-thermoplastic-forming-worbla
+Stop wasting expensive Worbla on failed prototypes—this Notion workshop turns your chaotic experiments into a repeatable, professional-grade forming process.  Perfect your thermoplastic forming technique without the guesswork. This template provides a structured system to log temperatures, timing, and material behavior, so you can replicate success
